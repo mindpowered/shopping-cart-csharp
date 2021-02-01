@@ -9,17 +9,14 @@ Contents
 ========
 
 * [Source Code and Documentation](#source-code-and-documentation)
-* [Licensing](#licensing)
 * [Requirements](#requirements)
 * [Installation](#installation)
 * [Support](#support)
+* [Licensing](#licensing)
 
 # Source Code and Documentation
 - Source Code: [https://github.com/mindpowered/shopping-cart-csharp](https://github.com/mindpowered/shopping-cart-csharp)
 - Documentation: [https://mindpowered.github.io/shopping-cart-csharp](https://mindpowered.github.io/shopping-cart-csharp)
-
-# Licensing
-To obtain a version of this package under the MIT License, follow the instructions to [get a license][purchase]. The MIT License has no restrictions on commercial use and permits reuse within proprietary software.
 
 # Requirements
 ## To import pre-compiled library
@@ -42,7 +39,7 @@ Third-party dependencies may have additional requirements.
 Add the following entry to your .csproj file:
 
 ```
-<PackageReference Include="mindpowered.shoppingcart" Version="0.0.13" />
+<PackageReference Include="mindpowered.shoppingcart" Version="0.0.14" />
 ```
 
 
@@ -50,6 +47,9 @@ Add the following entry to your .csproj file:
 We are here to support using this package. If it doesn't do what you're looking for, isn't working, or you just need help, please [Contact us][contact].
 
 There is also a public [Issue Tracker][bugs] available for this package.
+
+# Licensing
+This package is released under the MIT License. The MIT License has no restrictions on commercial use and permits reuse within proprietary software. It is also FSF approved, OSI approved, and GPL compatible.
 
 
 
